@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://sacramentokungfu.com/</loc><priority>1.0</priority></url>
-  <url><loc>https://sacramentokungfu.com/#wing-chun</loc><priority>0.8</priority></url>
-  <url><loc>https://sacramentokungfu.com/#program</loc><priority>0.8</priority></url>
-  <url><loc>https://sacramentokungfu.com/#lineage</loc><priority>0.8</priority></url>
-  <url><loc>https://sacramentokungfu.com/#gallery</loc><priority>0.7</priority></url>
-  <url><loc>https://sacramentokungfu.com/#contact</loc><priority>0.9</priority></url>
+  <url><loc>https://sacramentokungfu.com/method.html</loc><priority>0.85</priority></url>
+  <url><loc>https://sacramentokungfu.com/principles.html</loc><priority>0.85</priority></url>
+  <url><loc>https://sacramentokungfu.com/training-path.html</loc><priority>0.85</priority></url>
+  <url><loc>https://sacramentokungfu.com/lineage.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sacramentokungfu.com/contact.html</loc><priority>0.9</priority></url>
 </urlset>
